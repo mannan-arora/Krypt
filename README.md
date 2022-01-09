@@ -1,5 +1,5 @@
 ## Krypt - Web 3.0 Blockchain Application
-<img src="https://i.ibb.co/z2mpqLn/f140cb89d8264a8cd3a233052ebfda79.png" width="720">
+<img src="https://i.ibb.co/z2mpqLn/f140cb89d8264a8cd3a233052ebfda79.png" width="640" height="360">
 
 
 Web 3.0 has the potential to change the internet as we know it forever. Krypt is a modern real world web 3.0 application connected to the ethereum blockchain that allows users to send ethereum to any address worldwide via MetaMask.
