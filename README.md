@@ -19,6 +19,7 @@ You can get a preview of the live app by clicking [here](https://kryptapp.vercel
 * [Alchemy](https://www.alchemy.com/)
 * [Solidity](https://soliditylang.org/)
 * [Giphy API](https://developers.giphy.com/)
+* [Vercel](https://vercel.com/)
 
 
 ## Getting Started
